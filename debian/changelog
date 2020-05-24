@@ -1,4 +1,16 @@
-disthass (0.1.0-1) smurf; urgency=low
+disthass (0.1.0-3) unstable; urgency=medium
+
+  * Packaging fixes
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Sun, 24 May 2020 11:32:23 +0200
+
+disthass (0.1.0-2) unstable; urgency=medium
+
+  * Add .gitignore
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Sun, 24 May 2020 11:31:17 +0200
+
+disthass (0.1.0-1) unstable; urgency=low
 
   * source package automatically created by stdeb 0.8.5
 

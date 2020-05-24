@@ -1,1 +1,4 @@
 /.pybuild/
+/dist/
+/disthass.egg*
+__pycache__
