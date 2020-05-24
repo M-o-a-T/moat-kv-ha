@@ -2,13 +2,15 @@ Source: disthass
 Maintainer: Matthias Urlichs <matthias@urlichs.de>
 Section: python
 Priority: optional
-Build-Depends: dh-python, python3-setuptools, python3-all, debhelper (>= 9)
+Build-Depends: dh-python, python3-setuptools, python3-all, debhelper (>= 9),
+  distkv,
 Standards-Version: 3.9.6
 Homepage: https://github.com/smurfix/disthass
 
 Package: disthass
 Architecture: all
-Depends: ${misc:Depends}, ${python3:Depends}
+Depends: ${misc:Depends}, ${python3:Depends},
+  distkv,
 Description: Link between Home Assistant and DistKV
  Home Assistant talks via MQTT. DistKV has a quite versatile MQTT adapter.
  Thus we can store Home Assistant's entitiy configuration, plus their state,
