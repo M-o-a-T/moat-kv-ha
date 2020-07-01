@@ -1,3 +1,9 @@
+disthass (0.2.0-1) unstable; urgency=medium
+
+  * Merge
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Wed, 01 Jul 2020 16:14:37 +0200
+
 disthass (0.1.0-4) unstable; urgency=medium
 
   * More packaging
