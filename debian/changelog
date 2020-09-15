@@ -1,3 +1,9 @@
+disthass (0.2.2-2) unstable; urgency=medium
+
+  * Fix ignored files
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Tue, 15 Sep 2020 08:00:39 +0200
+
 disthass (0.2.2-1) unstable; urgency=medium
 
   * Merge
