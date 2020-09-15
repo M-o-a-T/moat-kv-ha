@@ -1,3 +1,9 @@
+disthass (0.2.3-1) unstable; urgency=medium
+
+  * Merge
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Tue, 15 Sep 2020 08:13:57 +0200
+
 disthass (0.2.2-3) unstable; urgency=medium
 
   * *sigh* fix deb/rules
