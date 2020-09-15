@@ -1,3 +1,9 @@
+disthass (0.2.2-3) unstable; urgency=medium
+
+  * *sigh* fix deb/rules
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Tue, 15 Sep 2020 08:10:00 +0200
+
 disthass (0.2.2-2) unstable; urgency=medium
 
   * Fix ignored files
