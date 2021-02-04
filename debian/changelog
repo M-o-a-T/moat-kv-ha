@@ -1,3 +1,9 @@
+distkv-hass (0.3.0-1) unstable; urgency=medium
+
+  * Merge
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Thu, 04 Feb 2021 11:32:59 +0100
+
 disthass (0.2.3-1) unstable; urgency=medium
 
   * Merge
