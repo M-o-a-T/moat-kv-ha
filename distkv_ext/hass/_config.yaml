@@ -1,3 +1,0 @@
-hass:
-  prefix: !P :.hass
-  conv: hassco
